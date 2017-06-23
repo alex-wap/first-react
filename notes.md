@@ -1,3 +1,5 @@
+## Start React App
+
 `create-react-app my-app`
 
 
@@ -15,3 +17,14 @@ npm start
 - F10 to step through
 - command+shift+P - control palette
 - create eslintrc.json
+
+---
+## First Component
+
+- react components - camelcase
+- React.createClass
+  - render function returns JSX (need parens for formatting)
+- `ReactDOM.render(<Greeter/>,document.getElementByID('root'))`
+
+---
+## JSX
